@@ -1,2 +1,3 @@
 # Libft
-Libft project, school 42
+• Libft project, Ecole 19
+• Create your own library functions
